@@ -11,6 +11,7 @@ The [official Phaser website](https://phaser.io) contains links to thousands of 
 
 Official Phaser project templates to get you started fast. All using the latest release of Phaser and the respective bundlers:
 
+* [React + Vite Template](https://github.com/phaserjs/template-react) - coming soon as a TypeScript version
 * [Vue 3 + Vite Template](https://github.com/phaserjs/template-vue) - also available as a [TypeScript Template](https://github.com/phaserjs/template-vue-ts)
 * [Vite Template](https://github.com/phaserjs/template-vite) - also available as a [TypeScript Template](https://github.com/phaserjs/template-vite-ts)
 * [Webpack Template](https://github.com/phaserjs/template-webpack) - also available as a [TypeScript Template](https://github.com/phaserjs/template-webpack-ts)
