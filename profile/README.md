@@ -23,6 +23,7 @@ Official Phaser project templates to get you started fast. All using the latest 
 * [Svelte Template](https://github.com/phaserjs/template-svelte)
 * [NextJS Template](https://github.com/phaserjs/template-nextjs)
 * [SolidJS + Vite Template](https://github.com/phaserjs/template-solid)
+* [Remix Template](https://github.com/phaserjs/template-remix)
 
 ## Bundler Project Templates
 
@@ -33,4 +34,3 @@ Official Phaser project templates to get you started fast. All using the latest 
 * [Parcel Template](https://github.com/phaserjs/template-parcel) - also available as a [TypeScript Template](https://github.com/phaserjs/template-parcel-ts)
 * [Import Map Template](https://github.com/phaserjs/template-importmap)
 * [Bun Template](https://github.com/phaserjs/template-bun)
-* [Remix Template](https://github.com/phaserjs/template-remix)
