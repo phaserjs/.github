@@ -32,3 +32,5 @@ Official Phaser project templates to get you started fast. All using the latest 
 * [Rollup Template](https://github.com/phaserjs/template-rollup) - also available as a [TypeScript Template](https://github.com/phaserjs/template-rollup-ts)
 * [Parcel Template](https://github.com/phaserjs/template-parcel) - also available as a [TypeScript Template](https://github.com/phaserjs/template-parcel-ts)
 * [Import Map Template](https://github.com/phaserjs/template-importmap)
+* [Bun Template](https://github.com/phaserjs/template-bun)
+* [Remix Template](https://github.com/phaserjs/template-remix)
